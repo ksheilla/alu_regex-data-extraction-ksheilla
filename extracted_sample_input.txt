@@ -1,0 +1,8 @@
+Email addresses
+URLs
+Phone numbers
+Credit card numbers
+Time in 12-hour or 24-hour format
+HTML tags
+Hashtags
+Currency amounts
